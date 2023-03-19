@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daif samhdana</h1>
 <h3 align="center">A passionate full-stack and flutter developer from Palestine</h3>
+https://blog.alexdevero.com/wp-content/uploads/2019/10/how-to-think-like-a-programmer-tips-for-adopting-problem-solving-mindset.jpg
 
 - 🔭 I’m currently working on **Al-Azhar**
 
